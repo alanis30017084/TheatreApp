@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheatreBookingApp", "Theatr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheaterClassLibrary", "TheaterClassLibrary\TheaterClassLibrary.csproj", "{65DEB578-E73E-4DEE-91DF-9DCA33889FE8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{1EFF3694-50AF-4AB6-89FB-47D45CCBED6E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{65DEB578-E73E-4DEE-91DF-9DCA33889FE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65DEB578-E73E-4DEE-91DF-9DCA33889FE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65DEB578-E73E-4DEE-91DF-9DCA33889FE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EFF3694-50AF-4AB6-89FB-47D45CCBED6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EFF3694-50AF-4AB6-89FB-47D45CCBED6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EFF3694-50AF-4AB6-89FB-47D45CCBED6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EFF3694-50AF-4AB6-89FB-47D45CCBED6E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
